@@ -57,7 +57,7 @@ To build and run an application:
 
 To run an application in Docker use the Docker file called `Dockerfile`. If you do not want to install Maven locally you can use `Dockerfile-tools` to build a container with Maven installed.
 
-<!--#### IBM Cloud Developer Tools
+#### IBM Cloud Developer Tools
 
 Install [IBM Cloud Developer Tools](https://cloud.ibm.com/docs/cli/index.html#overview) on your machine by using the following installation command: `curl -sL https://ibm.biz/idt-installer | bash`.
 
@@ -80,7 +80,7 @@ You can build and debug your app locally with:
 ```bash
 ibmcloud dev build --debug
 ibmcloud dev debug
-```-->
+```
 
 ## Next Steps
 * Learn more about augmenting your Java applications on IBM Cloud with the [Java Programming Guide](https://cloud.ibm.com/docs/java).
